@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/HenryAgu/StatPreview.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://chipper-kulfi-1463e7.netlify.app/)
 
 
 ### Built with
